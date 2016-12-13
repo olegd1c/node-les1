@@ -1,7 +1,7 @@
 {
   "name": "les1",
   "version": "1.0.0",
-  "description": "test les1",
+  "description": "simple page html",
   "main": "index.js",
   "scripts": {
     "test": "system.js",
