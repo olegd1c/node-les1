@@ -7,7 +7,7 @@
     "test": "system.js",
     "start": "node server.js"
   },
-  "author": "merlin",
+  "author": "devapp.in.ua",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
