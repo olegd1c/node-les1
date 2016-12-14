@@ -1,0 +1,21 @@
+{
+  "name": "les1",
+  "version": "1.0.0",
+  "description": "simple page html",
+  "main": "index.js",
+  "scripts": {
+    "test": "system.js",
+    "start": "node index.js"
+  },
+  "author": "devapp.in.ua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "v4.5.0",
+    "npm": "3.10.7"
+  }
+}
+
+
