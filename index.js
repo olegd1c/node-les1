@@ -9,7 +9,8 @@ app.use(express.logger());
 // создаём маршрут для главной страницы
 // http://localhost:8080/
 app.get('/', function(request, response) {
-  response.sendfile('index.html');
+  //response.sendfile('index.html');
+  response.send('Hello World node!');
 });
 
 // запускаем сервер на порту 8080
