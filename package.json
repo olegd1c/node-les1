@@ -10,7 +10,7 @@
   "author": "devapp.in.ua",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.17.1"
   },
   "engines": {
     "node": "v4.5.0",
